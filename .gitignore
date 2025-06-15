@@ -1,0 +1,34 @@
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Build directories
+/build/
+/bin/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+env/
+venv/
+ENV/
+
+# Certificates and keys
+*.crt
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log 
